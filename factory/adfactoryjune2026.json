@@ -1,0 +1,15 @@
+{
+	"name": "adfactoryjune2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ad1f608-d52a-48c2-bd0c-ffdbd5208e90",
+		"tenantId": "1f4c79bc-aa23-4536-b49c-116c93d4d6f7"
+	}
+}
